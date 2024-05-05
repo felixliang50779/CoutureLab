@@ -1,7 +1,7 @@
 # CoutureLab
 
 <p>
-  <img src="GIFMaker_me (1).gif">
+  <img src="animation.gif">
 </p>
 
 # Inspiration
