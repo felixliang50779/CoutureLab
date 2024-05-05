@@ -1,3 +1,9 @@
+# CoutureLab
+
+<p>
+  <img src="Animation.gif">
+</p>
+
 # Inspiration
 
 Ever dig out something from your closet that you forgot you even owned? We decided to create an application that allows you to track every clothing item in your wardrobe, seamlessly integrated with a styling assistant that provides personalized advice.
