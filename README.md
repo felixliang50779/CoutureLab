@@ -30,4 +30,4 @@ Ever dig out something from your closet that you forgot you even owned? We decid
 
 # Check it out!
 
-https://couture-lab-backend.web.app/
+https://couturelab.app/
